@@ -8,5 +8,5 @@ In order to address this growing issue, we have been asked to utilize SQL to cre
 Before diving into the creation of table and their analysis, the following Entity Relationship Diagram (ERD) was created to understand the visual relationship of multiple tables we were given prior to diving into the exploratory and organization portion of the analysis.
 Viewing the below image, we have mapped out a detailed flowchart the varying relationships held by each table and shared column. Based on the original csv files initially provided, we are able to capture primary and foreign keys of the flowcharts and the data types per each column. Through the assistance of the ERD, two analysis deliverables were established that will help managers prepare for the upcoming “silver tsunami”. 
 
-!(ERD)[Resources/Employee DB.png]
+![ERD](Resources/Employee DB.png)
 
