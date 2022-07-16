@@ -10,8 +10,9 @@ Viewing the below image, we have mapped out a detailed flowchart the varying rel
 
 ![ERD](Resources/Employee_DB.png)
 
-### Large Amount of Retirees
+### Amount of Retirees
 By viewing the below table, there are a large amount of retirees that as of right now reach eligibility for retirement and could retire at any given moment. 
+
 ![retiring titles](Resources/count_of_retiring_titles.png)
 
 In total there are 72,458 employees who are now deemed in the stage to retire, which could create a large vacancy within the firm. 
