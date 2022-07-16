@@ -32,3 +32,11 @@ By combining through the analysis, there are a total of 300,024 employees at Pew
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 In total, there are 72,458 roles that will need to be filled as the “silver tsunami” makes an impact across the Pewlett Hackard firm. While there is a total of 300,024 employees, this signifies that approximately 24.1%, nearly one-quarter of the total workforce at Pewlett, will be leaving. 
 
+- Employees retiring by gender
+A category that provide a different perspective and also proves additive to the analysis is the genders of the retirees part of the “silver tsunami.” Apart from the roles that need to be filled, it is significant to keep in mind the gender and therefore diversity of the firm and how that will be impacted with the wave of eligible employees going into retirement. For the upcoming retiring boom, 43,324 men and 29,030 women will be in total set to retire at the firm. Keeping in mind the balance of both genders and what to consider and keep in mind that all play a role in the mentorship program, promotions, and hiring recruitment (if needed). 
+
+
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Based on analysis, there are not enough qualified, retirement-ready employees to mentor the next generation. There are 1,549 employees who are eligible to participate in the mentorship program, which is a disproportionate ratio not only to the total amount of employees, but also to the ones who are not yet of retirement age to leave. 
+
