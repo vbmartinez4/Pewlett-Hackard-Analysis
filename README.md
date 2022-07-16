@@ -1,7 +1,8 @@
 # Pewlett Hackard Analysis
 
 ## Overview
-Pewlett Hackard is on the verge of experiencing a “silver tsunami”, in which a large set of its employees are nearing retirement age. These current employees are categorized as individuals being born between January 1, 1952 and December 31, 1955. The firm has asked for an in-depth analysis to determine the individuals, departments, and roles that as a whole will be affected by the large influx of retirees. 
+Pewlett Hackard is on the verge of experiencing a “silver tsunami”, in which a large set of its employees are nearing retirement age. These current employees are categorized as individuals being born between January 1, 1952 and December 31, 1955. The firm has asked for an in-depth analysis to determine the individuals, departments, and roles that as a whole will be affected by the large influx of retirees.
+
 In order to address this growing issue, we have been asked to utilize SQL to create a number of datasets to populate and reflect which employees under departments or specific titles will be approaching retirement age soon. Utilizing this information, the firm also has a desire to establish a mentorship program to help build up existing employees to the senior roles that will be vacated soon. With the baby boomer generation reaching retirement age within the next few years, it is critical to determine and project a future outlook for the well-being of Pewlett Hackard. 
 
 ## Results
@@ -12,6 +13,7 @@ Viewing the below image, we have mapped out a detailed flowchart the varying rel
 
 ### Amount of Retirees
 There are a large amount of retirees that as of right now reach eligibility for retirement and could retire at any given moment. In total there are 72,458 employees who are now deemed in the stage to retire, which could create a large vacancy within the firm. 
+
 ![total retirees](Resources/number_of_total_retiring.png)
 
 ### Senior Positions
@@ -24,4 +26,9 @@ It can also be noted that that the remaining individuals who could now retire ho
 
 ### Mentorship Eligibility 
 By combining through the analysis, there are a total of 300,024 employees at Pewlett Hackard, and from these, there are only a total of 1,549 employees whose birth year is 1965 and can qualify for the mentorship program. This signifies that 0.51% of the firm’s current total employees based on the parameters set in this deliverable qualify to take part in this program. 
+
+
+## Summary
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+In total, there are 72,458 roles that will need to be filled as the “silver tsunami” makes an impact across the Pewlett Hackard firm. While there is a total of 300,024 employees, this signifies that approximately 24.1%, nearly one-quarter of the total workforce at Pewlett, will be leaving. 
 
