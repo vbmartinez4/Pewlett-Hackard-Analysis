@@ -33,10 +33,16 @@ By combining through the analysis, there are a total of 300,024 employees at Pew
 In total, there are 72,458 roles that will need to be filled as the “silver tsunami” makes an impact across the Pewlett Hackard firm. While there is a total of 300,024 employees, this signifies that approximately 24.1%, nearly one-quarter of the total workforce at Pewlett, will be leaving. 
 
 - Employees retiring by gender
+
+![retiree genders](Resources/retirees_gender.png)
+
 A category that provide a different perspective and also proves additive to the analysis is the genders of the retirees part of the “silver tsunami.” Apart from the roles that need to be filled, it is significant to keep in mind the gender and therefore diversity of the firm and how that will be impacted with the wave of eligible employees going into retirement. For the upcoming retiring boom, 43,324 men and 29,030 women will be in total set to retire at the firm. Keeping in mind the balance of both genders and what to consider and keep in mind that all play a role in the mentorship program, promotions, and hiring recruitment (if needed). 
-
-
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 Based on analysis, there are not enough qualified, retirement-ready employees to mentor the next generation. There are 1,549 employees who are eligible to participate in the mentorship program, which is a disproportionate ratio not only to the total amount of employees, but also to the ones who are not yet of retirement age to leave. 
 
+-	Mentorship eligibility program by title
+
+![mentor count](Resources/count_of_mentors_by_title.png)
+
+To further expand on the upcoming “silver tsunami”, diving deeper into the mentorship program Pewlett is looked to establish, out of the employees who are eligible to participate, below we can see the break down per title they hold. We are able to see the disproportionate figures between those who can mentor versus those who will be leaving per title. There are not enough per title to help mentor and essential build up and replace those who are set to leave in the near future. For example, we can see there are insufficient individuals at the senior level to become mentors in lue of those leaving or staying. Comparing this table versus the individuals who are retiring, there are no mentors at the manager level, which again futher proves the point that there are insufficent mentors ready to take on the big shift that will be underway soon at Pewlett Hackard. 
