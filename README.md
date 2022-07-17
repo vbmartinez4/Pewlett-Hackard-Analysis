@@ -43,6 +43,6 @@ Based on analysis, there are not enough qualified, retirement-ready employees to
 
 -	Mentorship eligibility program by title
 
-![mentor count](Resources/count_of_mentors_by_title.png)
+![mentor count](Resources/count_of_mentors_by__title.png)
 
 To further expand on the upcoming “silver tsunami”, diving deeper into the mentorship program Pewlett is looked to establish, out of the employees who are eligible to participate, below we can see the break down per title they hold. We are able to see the disproportionate figures between those who can mentor versus those who will be leaving per title. There are not enough per title to help mentor and essential build up and replace those who are set to leave in the near future. For example, we can see there are insufficient individuals at the senior level to become mentors in lue of those leaving or staying. Comparing this table versus the individuals who are retiring, there are no mentors at the manager level, which again futher proves the point that there are insufficent mentors ready to take on the big shift that will be underway soon at Pewlett Hackard. 
