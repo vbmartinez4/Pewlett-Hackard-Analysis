@@ -5,6 +5,17 @@ Pewlett Hackard is on the verge of experiencing a “silver tsunami”, in which
 
 In order to address this growing issue, we have been asked to utilize SQL to create a number of datasets to populate and reflect which employees under departments or specific titles will be approaching retirement age soon. Utilizing this information, the firm also has a desire to establish a mentorship program to help build up existing employees to the senior roles that will be vacated soon. With the baby boomer generation reaching retirement age within the next few years, it is critical to determine and project a future outlook for the well-being of Pewlett Hackard. 
 
+## Tech Used:
+- PostgresSQL
+- pgAdmin
+
+## Objectives:
+- Design an ERD that will apply to the data.
+- Create and use a SQL database.
+- Import and export large CSV datasets into pgAdmin.
+- Practice using different joins to create new tables in pgAdmin.
+- Write basic- to intermediate-level SQL statements.
+
 ## Results
 Before diving into the creation of table and their analysis, the following Entity Relationship Diagram (ERD) was created to understand the visual relationship of multiple tables we were given prior to diving into the exploratory and organization portion of the analysis.
 Viewing the below image, we have mapped out a detailed flowchart the varying relationships held by each table and shared column. Based on the original csv files initially provided, we are able to capture primary and foreign keys of the flowcharts and the data types per each column. Through the assistance of the ERD, two analysis deliverables were established that will help managers prepare for the upcoming “silver tsunami”. 
@@ -45,4 +56,6 @@ Based on analysis, there are not enough qualified, retirement-ready employees to
 
 ![mentor count](Resources/count_of_mentors_by__title.png)
 
-To further expand on the upcoming “silver tsunami”, diving deeper into the mentorship program Pewlett is looked to establish, out of the employees who are eligible to participate, below we can see the break down per title they hold. We are able to see the disproportionate figures between those who can mentor versus those who will be leaving per title. There are not enough per title to help mentor and essential build up and replace those who are set to leave in the near future. For example, we can see there are insufficient individuals at the senior level to become mentors in lue of those leaving or staying. Comparing this table versus the individuals who are retiring, there are no mentors at the manager level, which again futher proves the point that there are insufficent mentors ready to take on the big shift that will be underway soon at Pewlett Hackard. 
+To further expand on the upcoming “silver tsunami”, diving deeper into the mentorship program Pewlett is looked to establish, out of the employees who are eligible to participate, below we can see the break down per title they hold. We are able to see the disproportionate figures between those who can mentor versus those who will be leaving per title. There are not enough per title to help mentor and essential build up and replace those who are set to leave in the near future. 
+
+For example, we can see there are insufficient individuals at the senior level to become mentors in lue of those leaving or staying. Comparing this table versus the individuals who are retiring, there are no mentors at the manager level, which again futher proves the point that there are insufficent mentors ready to take on the big shift that will be underway soon at Pewlett Hackard. 
